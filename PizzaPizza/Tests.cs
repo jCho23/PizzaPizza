@@ -32,5 +32,12 @@ namespace PizzaPizza
 		}
 
 
+		[Test]
+		public void PizzaTest()
+		{
+
+		}
+
+
 	}
 }
