@@ -1,3 +1,15 @@
-﻿<Properties>
+﻿<Properties StartupConfiguration="{04129895-3514-427F-9321-EB40E98DCD5B}|Unit Tests">
+  <MonoDevelop.Ide.ItemProperties.PizzaPizza PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PizzaPizza/Tests.cs">
+    <Files>
+      <File FileName="PizzaPizza/AppInitializer.cs" Line="30" Column="58" />
+      <File FileName="PizzaPizza/Tests.cs" Line="29" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
 </Properties>

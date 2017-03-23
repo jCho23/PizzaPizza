@@ -26,9 +26,11 @@ namespace PizzaPizza
 		}
 
 		[Test]
-		public void AppLaunches()
+		public void FirstTest()
 		{
-			app.Screenshot("First screen.");
+			app.Repl();
 		}
+
+
 	}
 }
