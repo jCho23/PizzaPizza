@@ -1,27 +1,10 @@
 ﻿<Properties StartupConfiguration="{04129895-3514-427F-9321-EB40E98DCD5B}|Unit Tests">
   <MonoDevelop.Ide.ItemProperties.PizzaPizza PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="PizzaPizza/AppInitializer.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PizzaPizza/Tests.cs">
     <Files>
-      <File FileName="PizzaPizza/AppInitializer.cs" Line="30" Column="58" />
-      <File FileName="PizzaPizza/Tests.cs" Line="32" Column="4" />
+      <File FileName="PizzaPizza/AppInitializer.cs" Line="23" Column="16" />
+      <File FileName="PizzaPizza/Tests.cs" Line="44" Column="1" />
     </Files>
-    <Pads>
-      <Pad Id="MonoDevelop.UnitTesting.TestPad">
-        <State name="__root__">
-          <Node name="PizzaPizza" expanded="True">
-            <Node name="PizzaPizza" expanded="True">
-              <Node name="PizzaPizza" expanded="True">
-                <Node name="Tests" expanded="True">
-                  <Node name="Tests(Android)" expanded="True">
-                    <Node name="FirstTest" selected="True" />
-                  </Node>
-                </Node>
-              </Node>
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

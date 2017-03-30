@@ -4,6 +4,7 @@ using System.Linq;
 using NUnit.Framework;
 using Xamarin.UITest;
 using Xamarin.UITest.Queries;
+using System.Threading;
 
 namespace PizzaPizza
 {
@@ -23,6 +24,7 @@ namespace PizzaPizza
 		public void BeforeEachTest()
 		{
 			app = AppInitializer.StartApp(platform);
+			app.Device.SetLocation(43.640687, -79.407593);
 		}
 
 		[Test]
@@ -35,6 +37,10 @@ namespace PizzaPizza
 		[Test]
 		public void PizzaTest()
 		{
+			app.Tap("OK");
+			Thread.Sleep(10000);
+			app.Tap("LOCATE BY POSTAL CODE");
+			app.Screenshot("Then we Tapped on 'Postal Code'");
 
 		}
 
