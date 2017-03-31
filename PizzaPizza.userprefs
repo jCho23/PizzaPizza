@@ -3,8 +3,25 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="PizzaPizza/Tests.cs">
     <Files>
       <File FileName="PizzaPizza/AppInitializer.cs" Line="23" Column="16" />
-      <File FileName="PizzaPizza/Tests.cs" Line="44" Column="1" />
+      <File FileName="PizzaPizza/Tests.cs" Line="50" Column="1" />
     </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="PizzaPizza" expanded="True">
+            <Node name="PizzaPizza" expanded="True">
+              <Node name="PizzaPizza" expanded="True">
+                <Node name="Tests" expanded="True">
+                  <Node name="Tests(Android)" expanded="True">
+                    <Node name="FirstTest" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

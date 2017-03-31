@@ -38,7 +38,7 @@ namespace PizzaPizza
 		public void PizzaTest()
 		{
 			app.Tap("OK");
-			Thread.Sleep(10000);
+			app.WaitForNoElement(x => x.Id("loading_box"), "Time out waiting for Loading box to disappear", TimeSpan.FromMinutes(5));
 			app.Tap("LOCATE BY POSTAL CODE");
 			app.Screenshot("Then we Tapped on 'Postal Code'");
 
